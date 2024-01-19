@@ -1,2 +1,2 @@
 # m.Shiv-project
-This is My First Github Repository
+This is My First Git Repository
